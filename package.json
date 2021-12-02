@@ -6,9 +6,8 @@
   "repository": "www.github.com/Bruhkhari/Full_Stack",
   "author": "Abdullah Bukhari",
   "scripts": {
-    "serve":"node server.js",
+    "serve": "node server.js",
     "dev": "nodemon server.js"
-
   },
   "license": "MIT",
   "dependencies": {
